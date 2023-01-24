@@ -5,4 +5,4 @@ Project for tesis purpose.
 
 ## Subheader
 
-following tutorial on youtube videos.
+following tutorial on youtube videos. It's cool.
